@@ -1,3 +1,16 @@
+September 23rd:
+- Used npx create-react-app to create the app in terminal
+- Created the Display, Top Container, Number (Except Zero), and Operation Components
+- Styled about half of the components listed above
+
+September 24th:
+- Added Bottom Container Components
+- Added Functionality to all Buttons
+- Created Display Variables
+- Finished Styling all Components
+- Made it so the numbers were 7-9, 4-6, and 1-3 instead of just 9-1
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
